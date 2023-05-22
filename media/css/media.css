@@ -1,0 +1,17 @@
+@media screen and (max-width:991px) {
+    .media {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .el {
+        width: 250px;
+    }
+}
+
+@media screen and (max-width:568px) {
+    .el {
+        width: 100%;
+    }
+}
